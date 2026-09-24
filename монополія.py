@@ -1,5 +1,7 @@
 from rich.console import Console
 console = Console(force_terminal=True)
+a = "banana"
+print (a)
 import random
 bonys = 0
 posithion = 0
