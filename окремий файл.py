@@ -1,5 +1,5 @@
 
-import turtle as t
+bimport turtle as t
 
 
 t.speed(100)
