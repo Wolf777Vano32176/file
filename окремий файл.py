@@ -1,4 +1,4 @@
-
+b = "banana"
 import turtle as t
 
 
